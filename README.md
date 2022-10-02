@@ -1,3 +1,3 @@
 # Calculator
 
-  ![Calculator Screenshot](Images/CalculatorScreenshot.png)
+  ![Calculator Screenshot](Images/CalculatorScreenshot.jpg)
