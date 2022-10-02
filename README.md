@@ -1,1 +1,3 @@
-# Calculator1
+# Calculator
+
+  ![Calculator Screenshot](Images/CalculatorScreenshot.png)
